@@ -1,0 +1,5 @@
+.checkBox-p {font-family: 'Jost-Regular'; font-size: 20px; line-height: 24px;}
+/******** CSS Mobile Devices *********/
+@media only screen and (max-width: 767px) {
+    .checkBox-p {font-family: 'Jost-Regular'; font-size: 13px; line-height: 18px;} 
+}
